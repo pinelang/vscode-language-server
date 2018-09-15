@@ -1,3 +1,16 @@
+## How to package?
+
+```
+vsce package
+```
+
+## How to install extension?
+
+```
+code --install-extension XXX.vsix
+```
+
+
 # LSP Example
 
 Heavily documented sample code for https://code.visualstudio.com/docs/extensions/example-language-server.
